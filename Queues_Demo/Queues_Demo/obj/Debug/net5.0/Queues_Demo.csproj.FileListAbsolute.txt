@@ -1,0 +1,16 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\bin\Debug\net5.0\Queues_Demo.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\bin\Debug\net5.0\Queues_Demo.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\bin\Debug\net5.0\Queues_Demo.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\bin\Debug\net5.0\Queues_Demo.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\bin\Debug\net5.0\Queues_Demo.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\bin\Debug\net5.0\ref\Queues_Demo.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\bin\Debug\net5.0\Queues_Demo.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\obj\Debug\net5.0\Queues_Demo.csproj.AssemblyReference.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\obj\Debug\net5.0\Queues_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\obj\Debug\net5.0\Queues_Demo.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\obj\Debug\net5.0\Queues_Demo.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\obj\Debug\net5.0\Queues_Demo.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\obj\Debug\net5.0\Queues_Demo.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\obj\Debug\net5.0\ref\Queues_Demo.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\obj\Debug\net5.0\Queues_Demo.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Queues_Demo\Queues_Demo\obj\Debug\net5.0\Queues_Demo.genruntimeconfig.cache
